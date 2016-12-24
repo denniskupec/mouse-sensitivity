@@ -1,6 +1,6 @@
 <?php require dirname(__DIR__) . '/vendor/autoload.php';
 
-error_reporting(0);
+//error_reporting(0);
 
 $appdir = dirname(__DIR__);
 $cli = new League\CLImate\CLImate;
